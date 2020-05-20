@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM alpine:latest
 MAINTAINER Fabian Malnero fabian@eb1tr.com @EB1TR
 
 ARG BUILD_DATE
